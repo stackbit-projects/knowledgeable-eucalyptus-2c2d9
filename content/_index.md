@@ -12,7 +12,7 @@ sections:
       - label: Get Started
         url: /docs
         style: primary
-      - label: lorem-ipsum
+      - label: hello
         url: '#'
         style: link
         icon_class: dev
